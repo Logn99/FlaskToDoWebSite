@@ -1,0 +1,32 @@
+
+    body{
+        font-family: "Arial Black";
+    }
+
+    #top{
+        text-align: center;
+    }
+    #logo{
+        color: white;
+        background-color: brown;
+        display: inline-block;
+        font-size: 32px;
+        font-weight: bold;
+        padding: 8px;
+        margin-top: 16px;
+    }
+    #logo-name{
+        font-size: 32px;
+        font-weight: bold;
+        margin:8px;
+    }
+
+    #navigation a{
+        color:gray;
+        padding: 8px;
+    }
+
+    #navigation a:hover{
+        color: brown;
+    }
+
